@@ -28,46 +28,9 @@ This is a simple Flutter application demonstrating the basics of Flutter develop
 4. **Forgot Password**: Tapping the "Forgot Password?" button shows a temporary message (Snackbar) as a placeholder for future implementation.
 5. **Home Screen**: Displays a welcome message and a logout button. Pressing logout returns the user to the login screen.
 
-## How to Run
 
-1. **Prerequisites**:
-   - [Flutter SDK](https://flutter.dev/docs/get-started/install) installed
-   - Android Studio, VS Code, or any preferred IDE
-   - An emulator or a physical device for testing
-
-2. **Clone the Repository** (if applicable):
-   ```sh
-   git clone <repository-url>
-   cd login_app
-   ```
-
-3. **Install Dependencies**:
-   ```sh
-   flutter pub get
-   ```
-
-4. **Run the App**:
-   - For Android/iOS:
-     ```sh
-     flutter run
-     ```
-   - For Web:
-     ```sh
-     flutter run -d chrome
-     ```
 
 ## Demo Credentials
 - **Email:** demo@example.com
 - **Password:** password123
 
-## Screenshots
-
-> Add screenshots here if needed (e.g., login screen, home screen)
-
-## Customization
-- You can expand this app by adding real authentication, persistent login, or connecting to a backend.
-- The UI can be further customized using Flutter's rich widget library.
-
-## License
-
-This project is for educational purposes and does not include any authentication backend. Feel free to use and modify it for your learning needs.
